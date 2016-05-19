@@ -1,0 +1,69 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0'
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.example.servicetest"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    lintOptions{
+        abortOnError false
+    }
+}
+
+dependencies {
+    compile files('libs/android-support-v4.jar')
+    compile project(':libraryPullRefresh')
+}
+def jarName='myOutput.jar'
+task clearJar(type:org.gradle.api.tasks.Delete){
+    delete("${project.buildDir}/libs/"+jarName)
+}
+
+task makeJar(type: Copy) {
+    from("${project.buildDir}/intermediates/bundles/release/")
+    into("${project.buildDir}/libs/")
+    include('classes.jar')
+    rename('classes.jar', jarName)
+}
+/*task makeJar(type:org.gradle.api.tasks.bundling.Jar){
+    //指定生成的jar包名
+    baseName 'myOutput'
+    //从哪里打包class文件
+    from('build/intermediates/classes/release/com/example/servicetest/')
+    //打包到jar后的目录结构
+    into('com/example/servicetest')
+}*/
+makeJar.dependsOn(clearJar,build)
+
+/*android.libraryVariants.all { variant ->
+    def name = variant.buildType.name
+    def task = project.tasks.create "jar${name.capitalize()}", Jar
+    task.dependsOn variant.javaCompile
+    task.from variant.javaCompile.destinationDir
+    task.from configurations.compile.findAll {
+        it.getName() != 'android.jar' && !it.getName().startsWith('junit') && !it.getName().startsWith('hamcrest')
+    }.collect {
+        it.isDirectory() ? it : zipTree(it)
+    }
+    artifacts.add('archives', task);
+}*/

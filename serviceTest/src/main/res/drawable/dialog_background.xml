@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:alpha="1"
+    android:src="@drawable/topic_left_title_bg">
+    <!--<item android:drawable="@drawable/dialog_background"/>-->
+</bitmap><!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="transparent">
+    <item android:drawable="@drawable/thanks"
+        a/>
+</layer-list>-->
