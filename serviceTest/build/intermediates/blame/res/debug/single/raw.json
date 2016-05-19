@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\raw\\orange.mp4",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\raw\\orange.mp4"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\raw\\orange.mp4",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\raw\\orange.mp4"
+    }
+]

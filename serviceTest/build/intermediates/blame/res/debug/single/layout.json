@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

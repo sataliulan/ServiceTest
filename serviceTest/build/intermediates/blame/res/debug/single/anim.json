@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\push_down_out.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    }
+]

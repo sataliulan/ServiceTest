@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thanks.PNG",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\thanks.PNG"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_left_title_bg.png",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\topic_left_title_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\thanks.PNG",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\thanks.PNG"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\topic_left_title_bg.png",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable-hdpi\\topic_left_title_bg.png"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    }
+]

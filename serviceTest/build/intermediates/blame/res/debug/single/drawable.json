@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable\\dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\thunder\\StudioProjects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\exploded-aar\\ServiceTest\\libraryPullRefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.xml",
+        "source": "D:\\android_studio_projects\\ServiceTest\\serviceTest\\src\\main\\res\\drawable\\dialog_background.xml"
+    }
+]
